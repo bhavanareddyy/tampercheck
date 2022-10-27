@@ -1,7 +1,7 @@
 <div align="center">
 
 <p><img src="fastlane/metadata/android/en-US/images/icon.png" width="150"></p>
-<h2><b>TamperCheck</b></h2>
+<h2><b>Tamper Check</b></h2>
 <h4>Simplifies comparing photos of tamper-evident seals and patterns using your eyes.</h4>
 
 </div>
